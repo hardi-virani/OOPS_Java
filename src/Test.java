@@ -22,5 +22,5 @@ public class Test
 
         Test test2 = new Test("Hardi");
         System.out.println(test2.x);
-    }
+
 }
