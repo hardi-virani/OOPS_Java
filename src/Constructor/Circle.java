@@ -21,6 +21,7 @@ public class Circle {
 
 
     public static void main(String[] args) {
+        //Creating new objects. circle1 and circle2
         Circle circle1 = new Circle();
         Circle circle2 = new Circle(2.0);
 

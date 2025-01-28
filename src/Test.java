@@ -15,12 +15,11 @@ public class Test
         System.out.println("Test");
     }
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         Test test = new Test();
         System.out.println(test.x);
 
         Test test2 = new Test("Hardi");
         System.out.println(test2.x);
-
+    }
 }
